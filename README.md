@@ -1,1 +1,1 @@
-# telebot_gpt_latoken
+This is an example of a Telegram bot I developed for Latoken. It used ChatGPT to answer questions about the company, provide information, and send test questions to users (as per the assignment). Logs, tokens, and API keys have been removed for security reasons.
